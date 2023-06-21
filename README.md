@@ -31,8 +31,8 @@
 | ------------- | ------------- | ------------- |
 | 37  | Rotate_Linked_List  | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/37_Rotate_Linked_List.java) | 
 | 38  | Cycle_Detection_in_a_Singly_Linked_List  | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/32_Cycle_Detection_in_a_Singly_Linked_List.java) | 
-| 39  | Reverse Nodes in k-Group   | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/33_Reverse_Nodes_in_k_Group.java) | 
-| 40  | Palindrome_Linked_List  | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/34_Palindrome_Linked_List.java) | 
-| 41  | Linked List Cycle 2  | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/35_Linked_List_Cycle_II.java) | 
-| 42  | Faltten a Linked List | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/36_Flatten_A_Linked_List.java) | 
+| 39  | 3 Sum   | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/39_3Sum.java) | 
+| 40  | Trapping Rain Water  | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/34_Palindrome_Linked_List.java) | 
+| 41  | Remove Duplicates from Sorted Array | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/35_Linked_List_Cycle_II.java) | 
+| 42  | Maximum Consecutive Ones | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/36_Flatten_A_Linked_List.java) | 
 
