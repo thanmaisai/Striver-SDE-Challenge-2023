@@ -1,47 +1,31 @@
 
 public class Solution {
-    public static Node flattenLinkedList(Node head) {
-        if (head == null || head.next == null) {
-            return head;
-        }
+	public static Node getListAfterReverseOperation(Node head, int n, int b[]) {
+       // Write your code here.
+      head = reverse(head,0,b);
+      return head;
+  }
+  static Node reverse(Node head,int i,int[] b) {
+      if (i>=b.length)
+          return head;
+      Node curr=head,prev=null,next=null;
+      int counter = 0;
+      int k = b[i];
+      if (k==0) {
+          head = reverse(head, i+1, b);
+          return head;
+      }  
+      while (curr!=null && counter<k) {
+         next = curr.next;
+         curr.next = prev;
+         prev = curr;
+         curr = next;
+         counter++;
+     }
+     if (next!=null) {
+         head.next = reverse(next, i+1, b);
+     }
+     return prev;
+  }
 
-        Node left = head;
-        Node right = head.next;
-        head.next = null;
-        right = flattenLinkedList(right);
-
-        return merge(left, right);
-    }
-
-    public static Node merge(Node left, Node right) {
-        if (left == null) {
-            return right;
-        }
-        if (right == null) {
-            return left;
-        }
-
-        Node dummy = new Node();
-        Node tail = dummy;
-
-        while (left != null && right != null) {
-            if (left.data < right.data) {
-                tail.child = left;
-                left = left.child;
-            } else {
-                tail.child = right;
-                right = right.child;
-            }
-            tail = tail.child;
-        }
-
-        if (left != null) {
-            tail.child = left;
-        }
-        if (right != null) {
-            tail.child = right;
-        }
-
-        return dummy.child;
-    }
 }
