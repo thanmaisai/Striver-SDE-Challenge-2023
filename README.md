@@ -34,5 +34,5 @@
 | 39  | 3 Sum   | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/39_3Sum.java) | 
 | 40  | Trapping Rain Water  | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/40_Trapping_Rain_Water.java) | 
 | 41  | Remove Duplicates from Sorted Array | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/41_Remove_Duplicates_from_Sorted_Array.java) | 
-| 42  | Maximum Consecutive Ones | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/36_Flatten_A_Linked_List.java) | 
+| 42  | Maximum Consecutive Ones | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/42_Max_Consecutive_Ones.java) | 
 
