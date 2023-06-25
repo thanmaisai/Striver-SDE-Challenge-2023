@@ -19,7 +19,7 @@
 | Q.No | Question | java  solution|
 | ------------- | ------------- | ------------- |
 | 31  | Intersection_of_Two_Linked_Lists  | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/31_Intersection_of_Two_Linked_Lists.java) | 
-| 32  | Cycle_Detection_in_a_Singly_Linked_List  | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/32_Cycle_Detection_in_a_Singly_Linked_List.java) | 
+| 32  | Cycle Detection in a Singly Linked List  | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/32_Cycle_Detection_in_a_Singly_Linked_List.java) | 
 | 33  | Reverse Nodes in k-Group   | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/33_Reverse_Nodes_in_k_Group.java) | 
 | 34  | Palindrome_Linked_List  | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/34_Palindrome_Linked_List.java) | 
 | 35  | Linked List Cycle 2  | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/35_Linked_List_Cycle_II.java) | 
