@@ -36,3 +36,9 @@
 | 41  | Remove Duplicates from Sorted Array | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/41_Remove_Duplicates_from_Sorted_Array.java) | 
 | 42  | Maximum Consecutive Ones | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/42_Max_Consecutive_Ones.java) | 
 
+
+## Recursion
+| Q.No | Question | java  solution|
+| ------------- | ------------- | ------------- |
+|   | Combination_Sum  | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/Combination_Sum.java) | 
+
