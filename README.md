@@ -4,6 +4,15 @@
 ### These repo contains solutions for Striver SDE Sheet which contains approx of 200 questions 
 
 
+
+
+## Arrays Part-II
+| Q.No | Question | java  solution|
+| ------------- | ------------- | ------------- |
+| 7  | Rotate Image | [Solution](https://github.com/thanmaisai/Striver-SDE-Challenge-2023/blob/main/7_Rotate_Image.java) | 
+
+
+
 ## Linked List
 | Q.No | Question | java  solution|
 | ------------- | ------------- | ------------- |
